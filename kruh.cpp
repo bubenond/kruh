@@ -1,7 +1,9 @@
-// objekty velkym pismenem a typy malym pismenem.
+// objekty velkym pismenem a typy malym pismenem..
 
 
 #include <iostream>
+
+
 
 
 class kruh 
