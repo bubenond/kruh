@@ -28,6 +28,7 @@ float spocitejObvod()
     return 2 * pi * polomer;
 }
 };
+
 int main() 
 {
     kruh mujprvniKruh;

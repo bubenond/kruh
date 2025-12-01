@@ -1,0 +1,33 @@
+# Ignorovat nastaveni VS Code a kompilacni soubory
+.vscode/
+*.o
+*.exe
+
+# Zbytek souboru, ktere nechceme na GitHubu (ze seznamu)
+# Vsechny adresare:
+kruh/
+jj/
+tvary/
+program/
+vedeni tepla/
+vedenit1/
+cviceni6/
+
+# Vsechny soubory:
+Untitled*.cpp
+vedeni_tepla.cpp
+vedenit.cpp
+vedenitep.cpp
+#include <iostream>.cpp
+array.cpp
+cviceni_8.cpp
+cviceni6.cpp
+karty.cpp
+komentare.cpp
+main.cpp
+main.o
+ode_main.cpp
+plane_xy.csv
+plane_xz.csv
+plane_yz.csv
+resimerovnici.cpp
